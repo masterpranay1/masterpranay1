@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterpranay1&label=Profile%20views&color=0e75b6&style=flat" alt="masterpranay1" /> </p>
 
-- 🔭 I’m currently working on **Connect - 4**
-
-- 🌱 I’m currently learning **Typescript and NextJs**
-
-- 💬 Ask me about **react , DSA**
-
-- 📫 How to reach me **rajpranaychottu@gmail.com**
+- 📫 How to reach me **masterpranayraj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
